@@ -1,3 +1,3 @@
 hello word
 i am learning git
-test push conflict with others
+test push conflict with others,conflict fixed
